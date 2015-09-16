@@ -1,0 +1,42 @@
+ body {
+  font-family: Times New Roman, Serif;
+  font-size: 16px;
+ }
+
+ table,
+ tr,
+ td {
+  background: transparent;
+  color: #222;
+  font-size:16px;
+  line-height: 100%;
+  padding: 1px 3px 1px 3px;
+ }
+
+ div {
+  color: #222;
+  font-size:16px;
+  line-height: 100%;
+  }
+
+ .tit1 {
+       font-size: 24px;
+       font-weight: bold;
+  }
+
+ .t1 {
+       font-size:18px;
+       font-weight:bold;
+       text-align:center;
+   }
+
+.bt {
+   border:solid 2px;
+   border-color:black;
+ }
+
+.sm {
+   text-align:left;
+   font-size:12px;
+ }
+

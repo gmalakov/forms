@@ -1,0 +1,7 @@
+name: forms
+description: A pub package
+dependencies:
+  mustache: any
+  yaml: any
+  watcher: any
+
